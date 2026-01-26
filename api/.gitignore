@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Build Output
+dist/
+coverage/
+
+# Environment Variables
+.env
+.env.test
+.env.production
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# System
+.DS_Store

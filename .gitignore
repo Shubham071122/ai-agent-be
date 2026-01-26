@@ -1,0 +1,10 @@
+# System & Editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Global Environment Variables (if any)
+.env
+.env.local

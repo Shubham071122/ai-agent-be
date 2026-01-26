@@ -1,0 +1,21 @@
+# Dependencies
+venv/
+env/
+.venv/
+
+# Byte-compiled / Optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables
+.env
+.env.local
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# System
+.DS_Store
